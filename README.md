@@ -1,7 +1,7 @@
 # java-play-websocket
 Akka Stream WebSocket Application Using Java Play Framework
 
-# Steps to compile and run the project
+## Steps to compile and run the project
 
 #### Compilation
 ```
